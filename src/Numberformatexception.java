@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class NumberFormatException {
+public class Numberformatexception extends Throwable {
 
 
     public static void main(String[] args) {
